@@ -17,12 +17,6 @@
 <img src="https://camo.githubusercontent.com/824bb23ea1bba8ff331b1a1b53f0e2b6a4554b011b0e7058e4bf9296d5942f9c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d626c7565736b7936362d64657626746578745f636f6c6f723d353836303639266c61796f75743d636f6d7061637426686964655f626f726465723d747275652662675f636f6c6f723d666666267469746c655f636f6c6f723d30333636643626636f756e745f707269766174653d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565" alt="Bluesky66's github langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluesky66-dev&amp;text_color=586069&amp;layout=compact&amp;hide_border=true&amp;bg_color=fff&amp;title_color=0366d6&amp;count_private=true&amp;include_all_commits=true" style="max-width: 100%; visibility: visible;" data-xblocker="passed">
 
 
-## Contents
-  - [Github README PROFILE CATEGORY](#github-readme-profile-category)
-  - [List out `Awesome README Profile` Tools](#list-out-awesome-readme-profile-tools)
-  - [List out `Awesome README Profile` Articles](#list-out-awesome-readme-profile-articles)
-  - [Contribute](#contribute)
-
 ## Website
 
 Link : https://awesome-github-readme-profile.netlify.app
