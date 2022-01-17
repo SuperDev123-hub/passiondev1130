@@ -1,5 +1,5 @@
-<h1 align="center">Awesome README Templates</h1>
-<p align="center"><i>A collection of awesome readme templates to display on your github profile.</i></p>
+<h1 align="center">Thanks for Visiting My Git account</h1>
+<p align="center"><i>A history of my development.</i></p>
 <div align="center">
   <a href="https://github.com/elangosundar/awesome-README-templates/stargazers"><img src="https://img.shields.io/github/stars/elangosundar/awesome-README-templates" alt="Stars Badge"/></a>
 <a href="https://github.com/elangosundar/awesome-README-templates/network/members"><img src="https://img.shields.io/github/forks/elangosundar/awesome-README-templates" alt="Forks Badge"/></a>
@@ -11,13 +11,9 @@
 <br>
 <p align="center"><i>Loved the project? Please visit our <a href="https://awesome-github-readme-profile.netlify.app">Website</a></i></p>
 <br>
-This repo aims to collect the all `awesome beautiful READMEs profile` and make your Profile look good & Inspire other's.
 
-If you are intersted, will create a PR for to add your `README` profile here.
+<img src="https://camo.githubusercontent.com/824bb23ea1bba8ff331b1a1b53f0e2b6a4554b011b0e7058e4bf9296d5942f9c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d626c7565736b7936362d64657626746578745f636f6c6f723d353836303639266c61796f75743d636f6d7061637426686964655f626f726465723d747275652662675f636f6c6f723d666666267469746c655f636f6c6f723d30333636643626636f756e745f707269766174653d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565" alt="Bluesky66's github langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluesky66-dev&amp;text_color=586069&amp;layout=compact&amp;hide_border=true&amp;bg_color=fff&amp;title_color=0366d6&amp;count_private=true&amp;include_all_commits=true" style="max-width: 100%; visibility: visible;" data-xblocker="passed">
 
-If you like this Repo, Please click the :star:
-
-List of `awesome README Profile` categories mentioned below
 
 ## Contents
   - [Github README PROFILE CATEGORY](#github-readme-profile-category)
